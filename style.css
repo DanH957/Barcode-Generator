@@ -1,0 +1,316 @@
+body {
+    font-family: Segoe UI, Calibri, Arial, Helvetica;
+    font-size: 12px;
+    color: #111;
+    margin: 8px;
+	background-color:#c2c2a3;
+}
+
+img.logo{
+	margin: auto;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: 0 auto;
+	position: relative;
+	top: 0px;
+	left:210px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+	text-align: center;
+	
+}
+
+input .back{
+float:right;
+position:relative;
+}
+
+
+.barcode{
+    
+    white-space:pre; // or pre-wrap if you want wrapping to still work.
+}
+
+
+tr:nth-child(odd) {
+	background-color: rgba(129, 96, 37, 0.4);;
+	}
+
+tr:nth-child(even){
+	background-color:#ffffff;
+}	
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
+div .list {
+    display: block;
+    margin: auto;
+    width: 70%;
+    min-width: 600px;
+    max-width: 1000px;
+   
+
+}
+
+
+
+
+li:hover
+{ 
+color:#FF0084; 
+cursor: pointer; 
+}
+
+
+		   
+a, .page{
+
+}
+
+ul{
+	
+width:300px;
+float:left;
+border-radius:10px;
+font-family:raleway;
+border:2px solid #ccc;
+padding:10px 40px 25px;
+margin-top:70px;
+   
+}
+
+input{
+	margin: 30;
+}
+
+
+input, select {
+    margin: 0;
+}
+
+div .searchbox{
+	position: relative;
+	
+	left:350px;
+text-align: center;
+
+}
+
+.logout{
+	position: relative;
+	
+}
+.searchbox a{
+	margin: 3;
+}
+
+.pagination {
+	position: relative;
+	right:10px;
+}
+
+.login-box h2 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-size: 1.4em;
+	line-height: 2.8em;
+}
+
+
+.login-box {
+	background-color: white;
+	max-width: 340px;
+	margin: 0 auto;
+	position: relative;
+	top: 80px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+	box-shadow: 0 5px 50px rgba(0,0,0,0.4);
+	text-align: center;
+}
+
+.login-box .box-header {
+	background-color: #665851;
+	margin-top: 0;
+	border-radius: 5px 5px 0 0;
+}
+
+.login-box input {
+	margin-bottom: 20px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	font-size: .9em;
+	color: #888;
+}
+
+.login-box input:focus {
+	outline: none;
+	border-color: #665851;
+	transition: 0.5s;
+	color: #665851;
+}
+
+.login-box button {
+	margin-top: 0px;
+	border: 0;
+	border-radius: 2px;
+	color: white;
+	padding: 10px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 0.7em;
+	letter-spacing: 1px;
+	background-color: #665851;
+	cursor:pointer;
+	outline: none;
+}
+
+.login-box button:hover {
+	opacity: 0.7;
+	transition: 0.5s;
+}
+
+.login-box button:hover {
+	opacity: 0.7;
+	transition: 0.5s;
+}
+
+div.header{
+
+
+	max-width: 950px;
+	margin: 0 auto;
+	position: relative;
+	
+	
+	border-radius: 5px;
+	
+}
+
+
+
+select {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+h1 {
+    display: none;
+}
+
+h2 {
+   
+    font-weight: normal;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #000000;
+    margin: 0 0 14px 0;
+	position:relative;
+	
+}
+
+.logo {
+    margin-top: 8px;
+}
+
+
+
+nav label {
+    
+}
+
+
+
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+	border-radius: 5px;
+	box-shadow: 0 5px 50px rgba(0,0,0,0.4);
+}
+
+table td {
+    padding: 3px 25px 1px 4px;
+    vertical-align: top;
+    height: 30px; /* This act as a min-height */
+
+    line-height: 30px;
+}
+
+
+b{
+	
+}
+
+table .col1 {
+    width: 180px;
+}
+
+table .info {
+    position: absolute;
+    dtop: 0;
+    dright: 5px;
+    line-height: 34px;
+}
+
+
+#search{
+	margin-bottom: 2px;
+}
+
+img .load {
+	float: right;
+}
+
+
+div .main{
+background-color:#ffffff
+}
+
+div.List select {
+    min-width: 70px;
+	background-color:#ffffff
+
+}
+
+
+div.List input[type=number] {
+    width: 70px;
+	 background-color:#ffffff
+}
+
+.pageButtons{
+	position:relative;
+	left:380px;
+	margin-bottom: 6px;
+}
+
+.back{
+position:relative;
+	left:460px;
+	margin-bottom: 6px;
+}
+
+
+
